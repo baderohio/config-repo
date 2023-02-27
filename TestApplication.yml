@@ -3,7 +3,7 @@ spring:
     name: TestApplication
 
 server:
-  port: 80866
+  port: 0
 
 management:
   endpoints:
