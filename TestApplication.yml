@@ -2,8 +2,8 @@ spring:
   application:
     name: TestApplication
 
-server:
-  port: 8086
+# server:
+#   port: 8086
 
 management:
   endpoints:
